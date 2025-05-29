@@ -1,4 +1,4 @@
-# IPL-Analytics
+# IPL-Cricket Insights 
 
 ## Overview
 The Cricket Analytics Suite is a comprehensive data analysis project designed to extract actionable insights from cricket match data. Leveraging advanced data science techniques, this suite provides in-depth player performance metrics, venue-based analytics, match outcome predictions, and more. The project is ideal for cricket enthusiasts, analysts, and data scientists looking to explore trends, visualize patterns, and build predictive models for T20 or ODI cricket matches.
